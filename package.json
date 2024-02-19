@@ -1,0 +1,15 @@
+{
+  "name": "example_with_mongo",
+  "version": "1.0.0",
+  "description": "For students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "knox",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
